@@ -36,5 +36,7 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  }
+  },
+  "homepage": "https://nileshs419.github.io/Country-Management"
 }
+
